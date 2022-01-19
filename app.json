@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "exporacindDemo",
-    "slug": "exporacindDemo",
-    "version": "1.0.0",
+    "name": "racingDemo",
+    "slug": "racingdDemo",
+    "version": "39.0.0",
     "assetBundlePatterns": [
       "**/*"
     ]
