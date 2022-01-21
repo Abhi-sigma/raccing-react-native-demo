@@ -15,8 +15,10 @@ which can be accessed through expo app.
 git clone the repo
   + npm install
   + expo start
-  (will need expo app on physical device with usb debugging enabled or AVD running)
-  you can also run these command to  run on those respective platforms:
+
+    (will need expo app on physical device with usb debugging enabled or AVD running)
+    you can also run these command to  run on those respective platforms:
+    
   + expo android
   + expo ios
   + expo web 
