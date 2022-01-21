@@ -1,8 +1,8 @@
 Hello Everyone,
 
-###This is my react-native app for the racing demo task.
+### This is my react-native app for the racing demo task.
 
-###Follow these steps to run it on your phone or pc.
+### Follow these steps to run it on your phone or pc.
 
 https://reactnative.dev/docs/environment-setup
 
