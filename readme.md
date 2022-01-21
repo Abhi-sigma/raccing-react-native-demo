@@ -13,13 +13,13 @@ And for the most easy one,this is an expo
 which can be accessed through expo app.
 
 git clone the repo
-  npm install
-  expo start
+  + npm install
+  + expo start
   (will need expo app on physical device with usb debugging enabled or AVD running)
   you can also run these command to  run on those respective platforms:
-  expo android
-  expo ios
-  expo web 
+  + expo android
+  + expo ios
+  + expo web 
 
 Havent tested in ios as I only have a windows machine howevr,the snack given below build a ios version.
 
